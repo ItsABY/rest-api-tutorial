@@ -1,4 +1,5 @@
 module.exports = {
+    "uri": "mongodb+srv://ajeetkumar:C0%23%23ect10n@sydney-rcgzs.mongodb.net/test?retryWrites=true&w=majority",
     "port": 3600,
     "appEndpoint": "http://localhost:3600",
     "apiEndpoint": "http://localhost:3600",

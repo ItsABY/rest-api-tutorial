@@ -6,6 +6,8 @@ const userSchema = new Schema({
     lastName: String,
     email: String,
     password: String,
+    age:Number,
+    visa:String,
     permissionLevel: Number
 });
 
